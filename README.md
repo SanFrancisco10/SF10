@@ -1,4 +1,4 @@
-# San Francisco 10 - Guía QR para Alicante
+# San Francisco 10 - Guía QR para Alicante 
 
 Sistema de guías PDF accesibles mediante código QR para huéspedes.
 
@@ -74,3 +74,4 @@ Colores actuales (estilo mediterráneo):
 - Azul profundo: #0D3B66
 - Arena: #F5E6D3
 - Dorado: #D4A853
+
